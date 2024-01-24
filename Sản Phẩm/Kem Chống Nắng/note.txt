@@ -1,0 +1,9 @@
+Giao diện web giới thiệu(chuyển động):
+- Sản phẩm brand Colorkey.
+- IMG:
+ + logo.
+ + son (dưỡng, bóng, kem lì...).
+ + kem nền.
+ + xịt khóa trang điểm, mask, kcn...
+- Đại sứ thương hiệu Colorkey Lương Thùy Linh.
+- 
